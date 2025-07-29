@@ -17,4 +17,17 @@ step 3: install gcc
 step 4: install gtimeout
 -> brew install coreutils
 
+
+step 5:
+echo 'alias gcc=gcc-15' >> ~/.zprofile
+echo 'alias g++=g++-15' >> ~/.zprofile
+source ~/.zprofile
+
+
+step 6:
+echo 'export CC=gcc-15' >> ~/.zprofile
+echo 'export CXX=g++-15' >> ~/.zprofile
+source ~/.zprofile
+
+
 ## now you are done.
