@@ -1,0 +1,13 @@
+--> VMware setup
+
+// download VMware
+https://youtu.be/fx2uXD3jifA?si=Ff2l2OtShXeosQvF
+
+// setup process
+https://youtu.be/LWXO4DhQRL0?si=J0Cjjz0gnLCbMN9d
+
+
+
+
+--> UTM setup
+https://youtu.be/FMwkvkRn5KI?si=g1wRFKLaeN6-5ZnS
